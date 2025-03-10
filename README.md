@@ -33,7 +33,7 @@
 - ⚡ Fun fact: I spend atleast 2 hours to learn new technology.
 
 [![Twitter: arifulmowla](https://img.shields.io/twitter/follow/arifulmowla?style=social)](https://twitter.com/arifulmowla)
-[![Linkedin: ariful-mowla](https://img.shields.io/badge/-nokibrokes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariful-mowla/)](https://www.linkedin.com/in/ariful-mowla/)
+[![Linkedin: ariful-mowla](https://img.shields.io/badge/-arifulmowla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariful-mowla/)](https://www.linkedin.com/in/ariful-mowla/)
 [![GitHub arifulmowla](https://img.shields.io/github/followers/arifulmowla?label=follow&style=social)](https://github.com/arifulmowla)
 
 
