@@ -1,4 +1,4 @@
-## Hi, I'm [Ariful Mowla](https://NokibRokes.com) 👋
+## Hi, I'm [Ariful Mowla](https://ariful.dk) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifulmowla&label=Views&color=blue&style=plastic" alt="]" /> </p>
 
@@ -23,14 +23,14 @@
 
 
 
-- 🔭 I’m currently working on [fixWpIssue](https://fixwpissue.com/).
+- 🔭 Recently graduated from Roskilde University.
 - 🌱 I’m currently learning more about Node.js.
-- 👯 I’m looking to collaborate on [UX/UI Design](https://nokibrokes.com/).
+- 👯 I’m looking to collaborate on [UX/UI Design](https://ariful.dk/).
 - 🤔 I’m looking for help with Full stack web development.
-- 💬 Ask me about Node.js, PHP or any tech related stuff.
-- 📫 How to reach me: [Twitter - @arifulmowla](https://twitter.com/arifulmowla) , [website - nokibrokes](https://nokibrokes.com/)
+- 💬 Ask me about Node.js, NextJs, PHP or any tech related stuff.
+- 📫 How to reach me: [Twitter - @arifulmowla](https://twitter.com/arifulmowla) , [website - ArifulMowla](https://ariful.dk/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 5 hours listening songs everyday.
+- ⚡ Fun fact: I spend atleast 2 hours to learn new technology.
 
 [![Twitter: arifulmowla](https://img.shields.io/twitter/follow/arifulmowla?style=social)](https://twitter.com/arifulmowla)
 [![Linkedin: ariful-mowla](https://img.shields.io/badge/-nokibrokes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariful-mowla/)](https://www.linkedin.com/in/ariful-mowla/)
